@@ -1,1 +1,1 @@
-FROM gcr.io/k8s-minikube/storage-provisioner:v3
+FROM nvcr.io/nvidia/tensorrt:20.19-py3
